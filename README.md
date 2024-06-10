@@ -9,6 +9,7 @@ NukeBot was made to be quick and easy. A friend wanted it, and other nuke bots o
 To get started, follow the below steps.
 ```bash
 $ pip install -r requirements.txt
+$ cp .env.example .env
 $ python main.py
 ```
 
